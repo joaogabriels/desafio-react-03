@@ -53,5 +53,9 @@
     "extends": [
       "react-app"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/joaogabriels/desafio-react-03.git",
+  "author": "joaogabriels <joaogabrielsevangelista@gmail.com>",
+  "license": "MIT"
 }
